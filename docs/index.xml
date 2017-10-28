@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jaffee&#39;s Blog</title>
+    <link>https://jaffee.co/</link>
+    <description>Recent content on Jaffee&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Oct 2017 23:03:18 -0500</lastBuildDate>
+    
+	<atom:link href="https://jaffee.co/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Initial</title>
+      <link>https://jaffee.co/post/initial/</link>
+      <pubDate>Wed, 25 Oct 2017 23:03:18 -0500</pubDate>
+      
+      <guid>https://jaffee.co/post/initial/</guid>
+      <description>Blergin&#39; I decided to make this as easy as possible - hugo, github pages, point an existing domain name at it, and call it a day.
+but of course I have to decide on a theme, figure out how to use org mode instead of markdown. etc. etc.</description>
+    </item>
+    
+  </channel>
+</rss>
