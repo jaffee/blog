@@ -1,0 +1,11 @@
+#+TITLE: Initial
+#+AUTHOR: Matt Jaffee
+#+DATE: 2017-10-25T23:03:18-05:00
+#+DRAFT: false
+
+* Blergin'
+I decided to make this as easy as possible - hugo, github pages, point an
+existing domain name at it, and call it a day.
+
+** but of course
+I have to decide on a theme, figure out how to use org mode instead of markdown. etc. etc.
