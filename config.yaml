@@ -1,9 +1,9 @@
-baseURL: https://example.com
+baseURL: https://jaffee.co/
 languageCode: en-us
 defaultContentLanguage: en
-title: Cupper
+title: Snippets
 theme: cupper-hugo-theme
-googleAnalytics: UA-123456789-1
+#googleAnalytics: UA-123456789-1
 disqusShortname: yourdiscussshortname
 enableGitInfo: true
 
@@ -13,16 +13,17 @@ taxonomies:
 permalinks:
   post: /:filename/
 
+publishDir: docs
+  
 imaging:
   quality: 99
 
 params:
-  description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
-  homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
-  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
+  description: Personal blog of Matt Jaffee.
+  homeMetaContent: Personal blog of Matt Jaffee.
+  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme).
   # For more date formats see https://gohugo.io/functions/format/
-  dateFormat: Jan 2, 2006
-  codePenUser: someUser
+  dateFormat: 2006-01-02
   katex: true
 
 menu:

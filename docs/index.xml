@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Snippets</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Snippets</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Apr 2020 13:54:19 -0500</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>So You Want To Have an Above Ground Pool</title>
+      <link>https://example.com/pool/</link>
+      <pubDate>Sun, 26 Apr 2020 13:54:19 -0500</pubDate>
+      
+      <guid>https://example.com/pool/</guid>
+      <description>Here&amp;rsquo;s what I did&amp;hellip; YMMV
+Pool  pool+filter pump skimmer  This pool comes with a filter pump, which you pretty definitely need to keep the water moving and clean. You don&amp;rsquo;t necessarily need it run it 24/7 though it might help? I don&amp;rsquo;t really know&amp;hellip; I run ours during the day most days and turn it off at night.
+I don&amp;rsquo;t have the skimmer yet, but feel like we definitely need it&amp;hellip; and that&amp;rsquo;s with the pool under a screen tent (see below).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Hey, this is my personal blog. Links:
+ Twitter Github LinkedIn  </description>
+    </item>
+    
+  </channel>
+</rss>
