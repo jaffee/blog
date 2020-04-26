@@ -31,7 +31,7 @@ want enough room to move around the edges of the pool inside the
 screen, and ideally to put a chair or two in there.
 
 # Chemicals
-- [PH Down](https://www.amazon.com/gp/product/B000V8BUBE/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+- [pH Down](https://www.amazon.com/gp/product/B000V8BUBE/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 - [Shock?](https://www.amazon.com/gp/product/B01DP67F9E/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 - [chlorine dispenser](https://www.amazon.com/gp/product/B002M40VJM/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
 - [test strips](https://www.amazon.com/gp/product/B001E6E9PG/ref=ppx_yo_dt_b_asin_title_o05_s01?ie=UTF8&psc=1)
@@ -56,12 +56,12 @@ also, I've heard, just put half a cup of bleach in every day
 (ish). Bleach is a bit hard to come by these pandemic days, but the
 tablets seem to be readily available.
 
-I found that with our pool, the PH was high and the alkalinity was
-low, so I bought the PH Down to lower the PH and put some baking soda
-in to raise the alkalinity. You may find that your PH is low, or
+I found that with our pool, the pH was high and the alkalinity was
+low, so I bought the pH Down to lower the pH and put some baking soda
+in to raise the alkalinity. You may find that your pH is low, or
 alkalinity is high in which case you need different chemicals.
 
-I recommend watching some youtube videos and such to learn about PH,
+I recommend watching some youtube videos and such to learn about pH,
 free chlorine and alkalinity. I used this [https://app.poolcalculator.com/](calculator) to figure out how
 much of stuff to put in. You can figure out how many gallons your pool
 is with some basic volume calculations and converting cubic feet to
