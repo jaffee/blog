@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jaffee.co/</loc>
+    <loc>https://blog.jaffee.co/</loc>
     <lastmod>2020-04-26T14:38:30-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jaffee.co/post/</loc>
+    <loc>https://blog.jaffee.co/post/</loc>
     <lastmod>2020-04-26T14:38:30-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jaffee.co/pool/</loc>
+    <loc>https://blog.jaffee.co/pool/</loc>
     <lastmod>2020-04-26T14:38:30-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jaffee.co/about/</loc>
+    <loc>https://blog.jaffee.co/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jaffee.co/tags/</loc>
+    <loc>https://blog.jaffee.co/tags/</loc>
   </url>
   
 </urlset>
